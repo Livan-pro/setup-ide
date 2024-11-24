@@ -9,8 +9,13 @@
 		"webstorm",
 		"intellij"
 	],
-	"repository": "github:Livan-pro/setup-ide",
+	"homepage": "https://github.com/Livan-pro/setup-ide#readme",
+	"bugs": {
+		"url": "https://github.com/Livan-pro/setup-ide/issues"
+	},
+	"repository": "https://github.com/Livan-pro/setup-ide",
 	"license": "MIT",
+	"author": "Livan.pro <me@livan.pro> (https://github.com/Livan-pro)",
 	"type": "module",
 	"bin": "./dist/cli.mjs",
 	"scripts": {
