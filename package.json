@@ -1,7 +1,16 @@
 {
 	"name": "setup-ide",
-	"version": "1.0.0",
+	"version": "1.1.0",
+	"keywords": [
+		"setup",
+		"ide",
+		"cli",
+		"vscode",
+		"webstorm",
+		"intellij"
+	],
 	"repository": "github:Livan-pro/setup-ide",
+	"license": "MIT",
 	"type": "module",
 	"bin": "./dist/cli.mjs",
 	"scripts": {
